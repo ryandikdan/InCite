@@ -12,16 +12,16 @@ https://drive.google.com/file/d/1QpZaygRgkASX-0b7D7W2E3PR1x_eA7UF/view?usp=share
 It can be set as the default program to open citation files, and when it does it will inject the citation into the active word document wherever the cursor is located (merging references where appropriate). If it is opened without a citation file, it will bring up the GUI which can be used to find already existing citations in the document and insert them wherever the cursor is.
 
 # Work in progress
-[] Make executable for Mac
+- [ ] Make executable for Mac
 
-[] More citation file formats?
+- [ ] More citation file formats?
 
-[] More thoroughly validate how different journals use each format
+- [ ] More thoroughly validate how different journals use each format
 
-[] Convert other library formats to Word Citation format (an XML variant)
+- [ ] Convert other library formats to Word Citation format (an XML variant)
 
-[] Make an Add-on so it is self-contained (can't do this alone)
+- [ ] Make an Add-on so it is self-contained (can't do this alone)
 
-[] Get a cute snake logo
+- [ ] Get a cute snake logo
 
-[] Decrease size of current exe (remove unnecessary dependencies or files)
+- [ ] Decrease size of current exe (remove unnecessary dependencies or files)
