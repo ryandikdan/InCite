@@ -1,6 +1,6 @@
 # InCite
 
-![logo_outline](https://user-images.githubusercontent.com/65059714/232627181-a101a0c4-2f6a-431b-b427-51d881c4ff13.png)
+![logo_outline](https://user-images.githubusercontent.com/65059714/232627309-c8725b29-1c49-42f6-9fa2-1172e22d4548.png)
 
 Paid for citation tools work, but they can be inconsistent, require syncing, and of course cost money, with different institutions using different tools. Microsoft Word already has citations built into it, so I made a python script which could take downloaded citation files (nbib, enw, ris), convert them into a format that word could use, and inject them into the active Word document using pywin32 and COMs. I also coded a GUI for enabling easier search through the references that are already in the document. I tried to import as little as possible to make it as self contained, yet highly functional as possible. This is a fun side project and work in progress, so please fork it and suggest changes if you'd like to assist in any way. I'm pretty new to sharing my code so hopefully I'm doing everything right.
 
