@@ -22,5 +22,3 @@ The first release includes a compiled exe for use on windows. You can set it to 
 - [ ] Make an Add-on so it is self-contained (can't do this alone)
 
 - [x] Get a cute snake logo
-
-- [ ] Decrease size of current exe (remove unnecessary dependencies or files)
